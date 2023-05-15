@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+body{
+    box-sizing: border-box;
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+}
+img{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    opacity: 70%;
+}
+h1{
+    font-size: 3rem;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    position: fixed;
+    top: 0;
+    left: 5vh;
+}
